@@ -1,5 +1,9 @@
 # InnoSetup Updater
 
+[![Latest Version](https://img.shields.io/github/release/Wilenty/InnoSetup-Updater.svg)](https://github.com/Wilenty/InnoSetup-Updater/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-Updater/total.svg)](https://github.com/Wilenty/InnoSetup-Updater/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-Updater/latest/total.svg)](https://github.com/Wilenty/InnoSetup-Updater/releases/latest)
+
 I made this program, because I could not find a program of this type, for that I found information that the main developer does not plan to add such functionality at all:
 https://groups.google.com/g/innosetup/c/y7Xgp-gyMkQ/m/17vCpPSAAQAJ
 but he suggests  to use "winget" that even some users of InnoSetup forum don't know it:
